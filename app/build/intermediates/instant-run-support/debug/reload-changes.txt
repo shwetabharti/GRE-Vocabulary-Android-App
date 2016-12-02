@@ -1,0 +1,11 @@
+CHANGED,C:\Users\yadav\AndroidStudioProjects\GREVocabulary\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\android\grevocabulary\R$integer$override.class
+CHANGED,C:\Users\yadav\AndroidStudioProjects\GREVocabulary\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\android\grevocabulary\R$drawable$override.class
+CHANGED,C:\Users\yadav\AndroidStudioProjects\GREVocabulary\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,C:\Users\yadav\AndroidStudioProjects\GREVocabulary\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\android\grevocabulary\R$style$override.class
+CHANGED,C:\Users\yadav\AndroidStudioProjects\GREVocabulary\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\android\grevocabulary\R$layout$override.class
+CHANGED,C:\Users\yadav\AndroidStudioProjects\GREVocabulary\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\android\grevocabulary\R$id$override.class
+CHANGED,C:\Users\yadav\AndroidStudioProjects\GREVocabulary\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\android\grevocabulary\R$string$override.class
+CHANGED,C:\Users\yadav\AndroidStudioProjects\GREVocabulary\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\android\grevocabulary\R$styleable$override.class
+CHANGED,C:\Users\yadav\AndroidStudioProjects\GREVocabulary\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\android\support\v7\appcompat\R$drawable$override.class
+CHANGED,C:\Users\yadav\AndroidStudioProjects\GREVocabulary\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\android\grevocabulary\R$mipmap$override.class
+CHANGED,C:\Users\yadav\AndroidStudioProjects\GREVocabulary\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\android\grevocabulary\R$raw$override.class

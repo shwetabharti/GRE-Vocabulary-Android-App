@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="420dpi"
+    format="7"
+    timestamp="98827168183637"
+    token="5725468091945944809"
+    verifier="R_CLASS_CHANGE" >
+
+    <task
+        name="javac"
+        duration="3897" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="352" />
+    <task
+        name="verifier"
+        duration="50" />
+
+    <artifact
+        location="C:\Users\yadav\AndroidStudioProjects\GREVocabulary\app\build\intermediates\res\resources-debug.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="C:\Users\yadav\AndroidStudioProjects\GREVocabulary\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+        type="DEX" />
+
+    <build timestamp="96854118153829" >
+        <artifact
+            location="C:\Users\yadav\AndroidStudioProjects\GREVocabulary\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="98827168183637"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="C:\Users\yadav\AndroidStudioProjects\GREVocabulary\app\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="C:\Users\yadav\AndroidStudioProjects\GREVocabulary\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>
